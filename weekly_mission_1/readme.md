@@ -1,6 +1,7 @@
 # Weekly Mission 1
 
-[### 🪐 Example 1: Objetos de JS ](https://github.com/DanielaBeltranCruz/Playbook-Node.js/tree/main/weekly_mission_1/example1/ "Example 1")
+### 🪐 Example 1: Objetos de JS 
+[](https://github.com/DanielaBeltranCruz/Playbook-Node.js/tree/main/weekly_mission_1/example1/ "Example 1")
 ### 🪐 Example 2: Exportando funciones entre scripts con CommonJS
 ### 🪐 Example 3: Diferentes formas de exportar funciones
 ### 🪐 Example 4: Clases y Objetos (1)
