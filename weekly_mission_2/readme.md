@@ -1,6 +1,8 @@
 # Weekly Mission 2
 <img width="1043" alt="image" src="https://user-images.githubusercontent.com/17634377/162600369-e2729ac1-d2c0-4893-ad45-0d5c40e4a479.png">
 
+<details>
+ <summary> 1. 🔥 Examples </summary>
 ## Examples
 ### 🪐 Objetos
  Ejemplos desarrollados:
@@ -59,7 +61,7 @@ Directorio: [2_clases_y_objetos](https://github.com/DanielaBeltranCruz/Playbook-
 Directorio: [3_modularizacion_clases](https://github.com/DanielaBeltranCruz/Playbook-Node.js/tree/main/weekly_mission_2/examples/3_modularizacion_clases)
 
 ### 🪐 Unidad de prueba
-Ve al directorio `4_unit_tests/` y explora los archivos:
+Ve al directorio `4_unit_tests` y explora los archivos:
  - `package.json` contiene una línea que dice `"jest": "^27.5.1"`, esto refiere a que descargará esta dependencia para usarla en nuestro proyecto.
  - `pokemon.js` es la definición de una clase.
  - `pokemon.test.js` contiene una prueba de unidad para la clase Pokemon
@@ -68,5 +70,6 @@ Ve al directorio `4_unit_tests/` y explora los archivos:
  
 Directorio: [4_unit_tests](https://github.com/DanielaBeltranCruz/Playbook-Node.js/tree/main/weekly_mission_2/examples/4_unit_tests)
 
+ </details>
 
 
