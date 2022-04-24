@@ -10,7 +10,7 @@
  4. Crear un objeto con métodos
  5. Crear un objeto que reciba parámetros
 
-[Examples](https://github.com/DanielaBeltranCruz/Playbook-Node.js/tree/main/weekly_mission_2/examples/0_objetos)
+Directorio: [0_objetos](https://github.com/DanielaBeltranCruz/Playbook-Node.js/tree/main/weekly_mission_2/examples/0_objetos)
 
 ### 🪐 Operadores
  Ejemplos desarrollados:
@@ -31,7 +31,7 @@
  15. Ejemplo de Sort
  16. Ejemplo de Sort
  
-[Examples](https://github.com/DanielaBeltranCruz/Playbook-Node.js/tree/main/weekly_mission_2/examples/1_operadores)
+Directorio: [1_operadores](https://github.com/DanielaBeltranCruz/Playbook-Node.js/tree/main/weekly_mission_2/examples/1_operadores)
 
 ### 🪐 Clases y objetos
 Ejemplos desarrollados:
@@ -46,27 +46,27 @@ Ejemplos desarrollados:
  9. Herencia
  10. Overriding methods
 
-[Examples](https://github.com/DanielaBeltranCruz/Playbook-Node.js/tree/main/weekly_mission_2/examples/2_clases_y_objetos)
+Directorio: [2_clases_y_objetos](https://github.com/DanielaBeltranCruz/Playbook-Node.js/tree/main/weekly_mission_2/examples/2_clases_y_objetos)
 
 ### 🪐 Modularización de clases
  Ve al directorio `3_modularizacion_clases`, explora los archivos:
- - `explorer.js` y `viajero.js` son las definiciones de las clases
+ - `explorer.js` y `viajero.js` son las definiciones de las clases.
  - `package.json` es un archivo `json` que nos permite definir la configuración de cualquier proyecto de node.
  - `main.js` es nuestro archivo principal para ejecutar el código.
 
  Después de crear estos archivos, bastará con ejecutar el comando `node main.js`.
  
-[Examples](https://github.com/DanielaBeltranCruz/Playbook-Node.js/tree/main/weekly_mission_2/examples/3_modularizacion_clases)
+Directorio: [3_modularizacion_clases](https://github.com/DanielaBeltranCruz/Playbook-Node.js/tree/main/weekly_mission_2/examples/3_modularizacion_clases)
 
 ### 🪐 Unidad de prueba
 Ve al directorio `4_unit_tests/` y explora los archivos:
  - `package.json` contiene una línea que dice `"jest": "^27.5.1"`, esto refiere a que descargará esta dependencia para usarla en nuestro proyecto.
- - `pokemon.js` es la definición de una clase
+ - `pokemon.js` es la definición de una clase.
  - `pokemon.test.js` contiene una prueba de unidad para la clase Pokemon
 
  Después de crear estos archivos basta con ejecutar el comando `npm install` y después `npm test`.
  
-[Examples](https://github.com/DanielaBeltranCruz/Playbook-Node.js/tree/main/weekly_mission_2/examples/4_unit_tests)
+Directorio: [4_unit_tests](https://github.com/DanielaBeltranCruz/Playbook-Node.js/tree/main/weekly_mission_2/examples/4_unit_tests)
 
 
 
