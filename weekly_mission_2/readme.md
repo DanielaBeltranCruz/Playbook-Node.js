@@ -4,7 +4,7 @@
 <details open>
 <summary> 1. ⭐️ Examples </summary>
  
-### 🪐 Objetos
+### 🪐 Ejemplos de objetos
  Ejemplos desarrollados:
  1. Crear un objeto vacío
  2. Crear un objeto con propiedades
@@ -14,7 +14,7 @@
 
 Directorio: [0_objetos](https://github.com/DanielaBeltranCruz/Playbook-Node.js/tree/main/weekly_mission_2/examples/0_objetos)
 
-### 🪐 Operadores
+### 🪐 Ejemplos de operadores
  Ejemplos desarrollados:
  1. Ejemplo For Each
  2. Ejemplo For Each
@@ -35,7 +35,7 @@ Directorio: [0_objetos](https://github.com/DanielaBeltranCruz/Playbook-Node.js/t
  
 Directorio: [1_operadores](https://github.com/DanielaBeltranCruz/Playbook-Node.js/tree/main/weekly_mission_2/examples/1_operadores)
 
-### 🪐 Clases y objetos
+### 🪐 Ejemplos de clases y objetos
 Ejemplos desarrollados:
 1. Crear clase vacía
  2. Instanciar objetos de una clase
@@ -50,7 +50,7 @@ Ejemplos desarrollados:
 
 Directorio: [2_clases_y_objetos](https://github.com/DanielaBeltranCruz/Playbook-Node.js/tree/main/weekly_mission_2/examples/2_clases_y_objetos)
 
-### 🪐 Modularización de clases
+### 🪐 Ejemplo de modularización de clases
  Ve al directorio `3_modularizacion_clases`, explora los archivos:
  - `explorer.js` y `viajero.js` son las definiciones de las clases.
  - `package.json` es un archivo `json` que nos permite definir la configuración de cualquier proyecto de node.
@@ -60,7 +60,7 @@ Directorio: [2_clases_y_objetos](https://github.com/DanielaBeltranCruz/Playbook-
  
 Directorio: [3_modularizacion_clases](https://github.com/DanielaBeltranCruz/Playbook-Node.js/tree/main/weekly_mission_2/examples/3_modularizacion_clases)
 
-### 🪐 Unidad de prueba
+### 🪐 Ejemplo de unidad de prueba
 Ve al directorio `4_unit_tests` y explora los archivos:
  - `package.json` contiene una línea que dice `"jest": "^27.5.1"`, esto refiere a que descargará esta dependencia para usarla en nuestro proyecto.
  - `pokemon.js` es la definición de una clase.
