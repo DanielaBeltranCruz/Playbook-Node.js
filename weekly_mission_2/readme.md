@@ -2,7 +2,7 @@
 <img width="1043" alt="image" src="https://user-images.githubusercontent.com/17634377/162600369-e2729ac1-d2c0-4893-ad45-0d5c40e4a479.png">
 
 <details open>
-<summary> 1. 🔥 Examples </summary>
+<summary> 1. ⭐️ Examples </summary>
  
 ### 🪐 Objetos
  Ejemplos desarrollados:
@@ -73,15 +73,15 @@ Directorio: [4_unit_tests](https://github.com/DanielaBeltranCruz/Playbook-Node.j
 </details>
 
 <details open>
-<summary> 2. 🔥 Exercises </summary>
+<summary> 2. ⭐️ Exercises </summary>
 
-### Ejercicio 1. Modelado de información con objetos simples de JS
+### 🪐 Ejercicio 1. Modelado de información con objetos simples de JS
 Directorio [exercise1](https://github.com/DanielaBeltranCruz/Playbook-Node.js/blob/main/weekly_mission_2/exercises/exercise1.js)
 
-### Ejercicio 2. Manejo de operadores
+### 🪐 Ejercicio 2. Manejo de operadores
 Directorio [exercise2](https://github.com/DanielaBeltranCruz/Playbook-Node.js/blob/main/weekly_mission_2/exercises/exercise2.js)
 
-### Ejercicio 3. Conversión de objetos a definiciones de clases
+### 🪐 Ejercicio 3. Conversión de objetos a definiciones de clases
 Directorio [exercise3](https://github.com/DanielaBeltranCruz/Playbook-Node.js/blob/main/weekly_mission_2/exercises/exercise3.js)
  
 </details>
