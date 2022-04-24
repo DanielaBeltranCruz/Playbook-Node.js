@@ -70,6 +70,18 @@ Ve al directorio `4_unit_tests` y explora los archivos:
  
 Directorio: [4_unit_tests](https://github.com/DanielaBeltranCruz/Playbook-Node.js/tree/main/weekly_mission_2/examples/4_unit_tests)
 
- </details>
+</details>
 
+<details open>
+<summary> 2. 🔥 Exercises </summary>
 
+### Ejercicio 1. Modelado de información con objetos simples de JS
+Directorio [exercise1](https://github.com/DanielaBeltranCruz/Playbook-Node.js/blob/main/weekly_mission_2/exercises/exercise1.js)
+
+### Ejercicio 2. Manejo de operadores
+Directorio [exercise2](https://github.com/DanielaBeltranCruz/Playbook-Node.js/blob/main/weekly_mission_2/exercises/exercise2.js)
+
+### Ejercicio 3. Conversión de objetos a definiciones de clases
+Directorio [exercise3](https://github.com/DanielaBeltranCruz/Playbook-Node.js/blob/main/weekly_mission_2/exercises/exercise3.js)
+ 
+</details>
