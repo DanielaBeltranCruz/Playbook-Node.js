@@ -3,7 +3,8 @@
 
 ### 🪐 Example 1: Objetos de JS 
 1. Ejecuta el siguiente comando: `node main.js`.
-Este código también puede ser probado desde la consola de de Javascript de tu navegador.
+
+🎯 NOTA: Este código también puede ser probado desde la consola de de Javascript de tu navegador.
 
 Script: [Example1](https://github.com/DanielaBeltranCruz/Playbook-Node.js/tree/main/weekly_mission_1/example1/ "Example 1")
 
