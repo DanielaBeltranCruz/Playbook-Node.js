@@ -4,7 +4,6 @@
 <details open>
 <summary> 1. 🔥 Examples </summary>
  
-## Examples
 ### 🪐 Objetos
  Ejemplos desarrollados:
  1. Crear un objeto vacío
