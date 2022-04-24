@@ -54,5 +54,3 @@ Script: [Example9](https://github.com/DanielaBeltranCruz/Playbook-Node.js/tree/m
 1. Ejecuta el siguiente comando: `node main.js`
 
 Script: [Example10](https://github.com/DanielaBeltranCruz/Playbook-Node.js/tree/main/weekly_mission_1/example10/ "Example 10")
-
-
