@@ -1,4 +1,6 @@
 # Weekly Mission 2
+<img width="1043" alt="image" src="https://user-images.githubusercontent.com/17634377/162600369-e2729ac1-d2c0-4893-ad45-0d5c40e4a479.png">
+
 ## Examples
 ### 🪐 Objetos
  Ejemplos desarrollados:
