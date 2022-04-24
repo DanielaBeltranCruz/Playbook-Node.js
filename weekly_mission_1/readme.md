@@ -1,4 +1,5 @@
 # Weekly Mission 1
+<img width="1244" alt="image" src="https://user-images.githubusercontent.com/17634377/161413194-a3f91d2f-a6cd-4edd-9382-8ffd65d8ed7c.png">
 
 ### 🪐 Example 1: Objetos de JS 
 [Link](https://github.com/DanielaBeltranCruz/Playbook-Node.js/tree/main/weekly_mission_1/example1/ "Example 1")
