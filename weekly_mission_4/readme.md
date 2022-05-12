@@ -8,6 +8,6 @@
 | ------------- |:-------------:| -----:|
 |`fizzbuzz`|1|[Link al repo](https://github.com/DanielaBeltranCruz/FizzBuzz)|
 |`PR`|2|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
-|`Code Challenge`|3, 4, 5|[Link al repo](https://github.com/DanielaBeltranCruz/Code-Challenge)|
-|`Trello`|6|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
-|`Trello JS Fork`|7|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
+|`Code Challenge`|3|[Link al repo](https://github.com/DanielaBeltranCruz/Code-Challenge)|
+|`Trello`|4|[Link al repo](https://github.com/DanielaBeltranCruz/Trello-JS)|
+|`Trello JS Fork`|5|[Link al repo](https://github.com/DanielaBeltranCruz/trello-fork)|
