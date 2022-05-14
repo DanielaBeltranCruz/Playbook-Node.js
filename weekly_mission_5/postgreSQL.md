@@ -44,7 +44,7 @@ Puedes consultar el libro <https://www.practicalsql.com/index.html>
 insert into explorers(id, username) values (1, 'Explorer1');
 ```
 
-    ![nuevo registro](https://github.com/DanielaBeltranCruz/Playbook-Node.js/blob/main/weekly_mission_5/images/Mini%20tutorial%20SQL/07.PNG)
+![nuevo registro](https://github.com/DanielaBeltranCruz/Playbook-Node.js/blob/main/weekly_mission_5/images/Mini%20tutorial%20SQL/07.PNG)
 
 11. Agrega 5 registros más siguiendo el ejemplo anterior:
 ```sql
@@ -54,6 +54,8 @@ insert into explorers(id, username) values (3, 'Explorer3');
 insert into explorers(id, username) values (4, 'Explorer4');
 insert into explorers(id, username) values (5, 'Explorer5');
 ```
+
+![nuevo registro](https://github.com/DanielaBeltranCruz/Playbook-Node.js/blob/main/weekly_mission_5/images/Mini%20tutorial%20SQL/08.PNG)
 
 12. Lee los registros de la tabla explorers: `select * from explorers;`.
 
@@ -65,6 +67,8 @@ insert into explorers(id, username) values (5, 'Explorer5');
 
 14. Actualiza el valor del primer nombre del explorer con ID 1: `update explorers e set username = 'Explorer 1 Upd' where e.id = 1;`.
 
+![actualizar](https://github.com/DanielaBeltranCruz/Playbook-Node.js/blob/main/weekly_mission_5/images/Mini%20tutorial%20SQL/11.PNG)
+
 15. Elimina el explorer con ID 1: `delete from explorers e where e.id = 1;`.
 
-![actualizar](https://github.com/DanielaBeltranCruz/Playbook-Node.js/blob/main/weekly_mission_5/images/Mini%20tutorial%20SQL/11.PNG)
+![eliminar](https://github.com/DanielaBeltranCruz/Playbook-Node.js/blob/main/weekly_mission_5/images/Mini%20tutorial%20SQL/12.PNG)
