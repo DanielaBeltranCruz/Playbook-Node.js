@@ -52,18 +52,20 @@ bot.on("message", (msg) => {
         const fizzbuzzTrick = ExplorerController.applyFizzbuzz(numberToApplyFb);
         const responseBot = `Tu número es: ${numberToApplyFb}. Validación: ${fizzbuzzTrick}`;
         bot.sendMessage(chatId, responseBot);
-    } else {
+    }else{
         bot.sendMessage(chatId, "Envía un número válido");
     }
-
 });
 ```
 Verifica:
-+ Aquí agrega el token que te dió el Bot Father: `const token = "";`
++ Aquí agrega el token que te dió el Bot Father: `const token = "";`.
 + Verifica que este bien la ruta de tu ExplorerController.
 + Recuerda no versionar tu token.
 
 6. Corre tu nuevo bot: `npm run bot`.
-7. Ve a tu chat con el nuevo bot y cada que envíes un número deberá darte la validación del fizzbuzz. Cualquier otro valor te madnará un mensaje de error.
+7. Ve a tu chat con el nuevo bot y cada que envíes un número deberá darte la validación del fizzbuzz. Cualquier otro valor te mandará un mensaje de error.
 
 ![bot](https://github.com/DanielaBeltranCruz/Playbook-Node.js/blob/main/weekly_mission_5/images/Bot%20Telegram/Screenshot_20220503-105439.png)
+
+8. Refactoriza el snippet de código anterior y envíalo al ExplorerController.
+9. Valida que al enviar la palabra "node" o "java", regreses al bot la lista de nombres de los explorers de esa misión. Recuerda que el bot solo puede recibir un string, tendrás que armar ese string con los nombres. No olvides agregar una prueba para generar ese string. No es necesario que hagas pruebas de la funcionalidad del bot.
